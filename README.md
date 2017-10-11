@@ -1,7 +1,9 @@
 # experiences2017-servicefabric
 
 Code source de la démo hyperscaling service fabric lors de la session retour d'experience Adents
-    https://www.slideshare.net/flyingoverclouds/microsoft-experiences2017-architecture-microservices-comment-adents-a-transform-son-business-en-dployant-une-application-pense-pour-le-cloud 
+https://experiences17.microsoft.fr/session/89079476-3e70-e711-80c2-000d3a210b7f
+
+Les slides sont accessibles ici : https://www.slideshare.net/flyingoverclouds/microsoft-experiences2017-architecture-microservices-comment-adents-a-transform-son-business-en-dployant-une-application-pense-pour-le-cloud 
     
 
 ## Todo :
