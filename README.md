@@ -1,5 +1,4 @@
-# experiences2017-servicefabric
-
+# Microsoft Experiences 2017 - Démo Azure Service Fabric et hyper scaling
 Code source de la démo hyperscaling service fabric lors de la session retour d'experience Adents
 https://experiences17.microsoft.fr/session/89079476-3e70-e711-80c2-000d3a210b7f
 
